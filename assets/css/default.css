@@ -1,0 +1,21 @@
+@CHARSET "UTF-8";
+
+.m-header
+	{
+/*		position: relative;*/
+/*		min-height: 60%;*/
+		background-color: #292222;
+/*		min-width: 100%;*/
+	}
+	
+.m-image
+	{
+		height :250px;
+		width : 250px;
+	}
+	
+.m-header-margin
+	{
+		margin-top: 8%;
+		margin-bottom: 8%;
+	}
