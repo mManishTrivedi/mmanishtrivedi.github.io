@@ -4,7 +4,7 @@
 	{
 /*		position: relative;*/
 /*		min-height: 60%;*/
-		background-color: #292222;
+		background-color: #4C5186;
 /*		min-width: 100%;*/
 	}
 	
@@ -18,4 +18,38 @@
 	{
 		margin-top: 8%;
 		margin-bottom: 8%;
+	}
+	
+.m-about-section
+	{
+		background-color: #11E680;
+	}
+	
+.m-section
+	{
+	 margin-top: 5%; 
+	 margin-bottom: 5%; 
+	 padding-top: 6%; 
+	 padding-bottom: 6%;
+/*	 padding : 100px 0;*/
+	}
+	
+	
+.m-footer
+	{
+	padding: 1.38889em 1.38889em 1.94444em;
+	background-color: #000e18;
+	/* display: -webkit-flex; */
+	display: -ms-flexbox;
+	display: box;
+	display: flexbox;
+	display: flex;
+	-webkit-flex-direction: column;
+	-ms-flex-direction: column;
+	flex-direction: column;
+	-webkit-align-items: center;
+	-moz-align-items: center;
+	-ms-align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	}
